@@ -23,7 +23,7 @@ Track ID in green.
 
 Options:
 
--l <#>
+	-l <#>
 
 Adding -l to search will allow you to increase or decrease the amount of 
 search results returned by the program.
